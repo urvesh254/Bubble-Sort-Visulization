@@ -14,6 +14,7 @@ function setup() {
   j=0;
   
   stroke(5);
+  frameRate(120);
 }
 
 function draw() {
